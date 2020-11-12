@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Corona Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">logo</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="new_user">New user?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="s_i_g_n_i_n">S I G N I N</string>
+    <string name="please_wait">please wait ...</string>
+    <string name="login_failed">LOGIN FAILED!</string>
+    <string name="retry">Retry</string>
+    <string name="please_check_your_internet_connection">Please Check Your Internet Connection</string>
+    <string name="please_check_your_password_username">please check your password / username</string>
+    <string name="no_internet">No internet !</string>
+    <string name="logo_cloud">logo_cloud</string>
+</resources>
